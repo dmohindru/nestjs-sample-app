@@ -50,7 +50,7 @@ module.exports = class initialSchema1625847615203 {
           { name: 'year', type: 'integer' },
           { name: 'lng', type: 'float' },
           { name: 'lat', type: 'float' },
-          { name: 'mileage', type: 'integer' },
+          { name: 'milage', type: 'integer' },
           { name: 'userId', type: 'integer' },
         ],
       }),
