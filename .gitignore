@@ -1,6 +1,10 @@
 .env.development
 .env.test
 # compiled output
+
+# database file
+db.sqlite
+
 /dist
 /node_modules
 
